@@ -13,7 +13,7 @@ const SingleComment =(props) =>{
             <a href='/' className='author'> {props.name}</a>
             <div className='metadata'>
                 <span className='date'>
-                  {props.date}
+                  {props.date} 
                 </span>
             </div>
             <div className='text'>

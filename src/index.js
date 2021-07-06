@@ -15,7 +15,7 @@ const App = () => {
                 </div>
             </UserCard>
             <UserCard>
-            <SingleComment name='Red Guy'
+            <SingleComment name='Red Guy' 
              date='Todat at 5:00pm' 
              text='I am Red Ass Devil'
              picture= {Red1}/>
